@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @HosseinGolmohammadi</h1>
 <h3 align="center">CS student of university of Esfahan</h3>
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **python**
 
